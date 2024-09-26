@@ -1,0 +1,10 @@
+let getal = parseInt(prompt("geef een getal in"))
+
+for(let i = 0;  i <= 10; i++){
+
+        console.log(getal * i);
+
+
+}
+
+
